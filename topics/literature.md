@@ -1,6 +1,6 @@
 # The Structure and Evolution of Academic Literatures
 
-Academic research does not exist apart from its relation to a well-developed literature of already-existing work.
+Creative and intellectual work always builds on work that has come before it. Academic research does not exist apart from its relation to a well-developed literature of already-existing work.
 
 ## Academic Literature
 
