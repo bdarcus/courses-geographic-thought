@@ -8,7 +8,7 @@ The argument here is:
 
 In turn, our job as aspiring scholars is to:
 
-1. Identify those ideas that excite us.
+1. *Identify* those ideas that excite us.
 2. Figure out *how* these ideas are evolving, and *why*.
 3. Place ourselves in this dynamic web; the existing literature.
 
