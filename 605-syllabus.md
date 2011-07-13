@@ -29,6 +29,11 @@ courses.
 
 # Schedule
 
-1. Teaching at Miami, Engaging Students (Wednesday, 10:30-4:30) 
+1. Teaching at Miami, Engaging Students (Wednesday, 10:30-4:30)
+    * introduction to teaching in the geography department
+    * case study discussion exercise
+    * discussion and debrief
 2. Grading and Logistics (Thursday, 9-noon)
+    * grading and feedback
+    * using Niihka (Sakai)
 3. Balancing Priorities, Resources (Friday, 9-noon)
