@@ -1,4 +1,6 @@
 % GEO 605 Teaching Skills in Geography
+% Bruce D'Arcus
+% August, 2011
 
 # Description
 
