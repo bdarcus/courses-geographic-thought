@@ -11,6 +11,7 @@ odt: ${FILES} Makefile
 pdf: ${FILES} Makefile
 	${PANDOC} -t latex --template templates/latex.tmpl -o out/605.tex 605.md
 	${PANDOC} -t latex --template templates/latex.tmpl -o out/605-syllabus.tex 605-syllabus.md
-	cd out; lualatex 605.tex; lualatex 605-syllabus.tex; cd.. ;rm out/*.{aux,out,log,tex}
+	${PANDOC} -t latex --template templates/latex.tmpl -o out/605-issues.tex 605-issues.md
+	cd out; lualatex 605.tex; lualatex 605-syllabus.tex; lualatex 605-issues.tex; rm *.{aux,out,log,tex}; cd ..
 
 all: html odt 
