@@ -30,10 +30,15 @@ courses.
 # Schedule
 
 1. Teaching at Miami, Engaging Students (Wednesday, 10:30-4:30)
+    * **before class: read El Salvador and coffee case study**
     * introduction to teaching in the geography department
     * case study discussion exercise
     * discussion and debrief
 2. Grading and Logistics (Thursday, 9-noon)
+    * **before class: do online research that updates on more recent status of El Salvador and coffee**
     * grading and feedback
     * using Niihka (Sakai)
-3. Balancing Priorities, Resources (Friday, 9-noon)
+3. Balancing Priorities, Presentations, Resources (Friday, 9-noon)
+    * **before class: prepare a slide presentation on Google Docs on a topic of your choosing; share it with class**
+    * issues and challenges
+    * resources
