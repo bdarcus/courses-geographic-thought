@@ -3,7 +3,7 @@ PANDOC = pandoc -s
 CSS =screen.css
 
 html: ${FILES} Makefile 
-	${PANDOC} -5 --section-divs -c ${CSS} -o out/605.html 605.md
+	${PANDOC} -t html5 --section-divs -c ${CSS} -o out/602.html *.md
 
 odt: ${FILES} Makefile
 	${PANDOC} -s -t odt -o out/${OUTFN}.odt ${FILES}
